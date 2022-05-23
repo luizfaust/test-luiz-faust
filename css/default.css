@@ -10498,7 +10498,7 @@ a:focus {
     display: block;
     width: 100%;
     text-align: left;
-    padding: 1rem;
+    padding: 7px 1rem 0;
     width: 14rem;
   }
   .sidebar .nav-item .nav-link i {
