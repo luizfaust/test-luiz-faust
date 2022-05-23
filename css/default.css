@@ -11242,3 +11242,8 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+
+.pp{
+  max-width: 100%;
+  height: auto;
+}
